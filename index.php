@@ -260,7 +260,7 @@
                                         techniques.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_surgicalextraction.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -279,7 +279,7 @@
                                         confidence.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_dentalimplants.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +298,7 @@
                                         makeovers.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_aestheticdentistry.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -317,7 +317,7 @@
                                     </p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_laserdentistry.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
                                         appearance.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_faciomaxillary.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -354,7 +354,7 @@
                                     <p>Diagnosis and surgical management of benign oral and maxillofacial growths.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_benigncysts%20and.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -373,7 +373,7 @@
                                         conditions.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_malignanttumours.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -392,7 +392,7 @@
                                         aesthetics.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser_orthognathicsurgery.php">read more</a>
                                 </div>
                             </div>
                         </div>
@@ -411,7 +411,7 @@
                                         pain relief.</p>
                                 </div>
                                 <div class="read-more-btn">
-                                    <a href="#">read more</a>
+                                    <a href="ser-tmjsurgery.php">read more</a>
                                 </div>
                             </div>
                         </div>
