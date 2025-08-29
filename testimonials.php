@@ -183,6 +183,42 @@
                 </div>
                 <!-- Testimonial Slider End -->
             </div>
+
+            <div class="col-md-12">
+                <!-- Intro Clinic Video Section Start -->
+                <div class="intro-clinic-video py-5">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <!-- Visit Clinic Start -->
+                                <div class="visit-clinic parallaxie">
+                                    <!-- Visit Clinic Content Start -->
+                                    <div class="visit-clinic-content">
+                                        <!-- Section Title Start -->
+                                        <div class="section-title">
+                                            <h3 class="wow fadeInUp">visit clinic</h3>
+                                            <h2 class="text-anime-style-2" data-cursor="-opaque">Comprehensive Dental
+                                                Care For All Ages</h2>
+                                        </div>
+                                        <!-- Section Title End -->
+
+                                        <!-- Visit Clinic Btn Start -->
+                                        <div class="visit-clinic-btn wow fadeInUp" data-wow-delay="0.25s"
+                                            data-cursor-text="Play">
+                                            <a href="images/common/gal-vd.mp4"
+                                                class="popup-video play-btn">play video</a>
+                                        </div>
+                                        <!-- Visit Clinic Btn End -->
+                                    </div>
+                                    <!-- Visit Clinic Content End -->
+                                </div>
+                                <!-- Visit Clinic End -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Intro Clinic Video Section End -->
+            </div>
         </div>
     </div>
 </div>
