@@ -1,0 +1,36 @@
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+    display: none  !important;
+}
+
+.img-rotate {
+    animation: rotate360 5s linear infinite; 
+}
+
+.whatsapp-float {
+    position: fixed;
+    bottom: 50%;
+    right: 20px;
+    background: #25d366;
+    color: #fff;
+    font-size: 32px;
+    padding: 12px 15px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    background: #1ebe5d;
+    color: #fff;
+}
+
+/* Animation Keyframes */
+@keyframes rotate360 {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
