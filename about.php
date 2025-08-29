@@ -32,7 +32,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <!-- About Image Start -->
-                <div class="about-image pb-0">
+                <div class="about-image pb-0 me-0">
                     <img src="images/common/grid-1.jpg" alt="image" class="w-100" />
                 </div>
                 <!-- About Image End -->
@@ -118,6 +118,63 @@
                         nature. He also enjoys staying active by playing table tennis.
                     </p>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Insurance Company Logo Slider Start -->
+<div class="insurance-company-carousel" style="background-color: #fde9e259;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4 bg-white px-0 mb-3">
+                <img src="images/common/dr-bobby-u.jpg" alt="doc" class="rounded w-100 h-100" />
+            </div>
+
+            <div class="col-lg-8">
+                <div class="coontent">
+                    <h2 class="mb-1">Dr. Bobby Cyriac</h2>
+                    <p class="mb-2">BDS, MBA (HCS), FICOI Director Dental</p>
+                    <p class="mb-2">
+                        Dr. Bobby Cyriac has more than 18 years of experience in dentistry. He completed his
+                        <b>Bachelor in Dental Surgery</b> and <b>Master in Business Administration – Health Care
+                            Services</b> from India
+                        and holds a <b>Fellowship in International Congress of Implantologists</b>. He is also trained
+                        in
+                        <b>Clear Aligners</b> and <b>Invisalign</b>.
+                    </p>
+
+                    <p class="mb-2">
+                        He serves as <b>Director – Dental and Maxillofacial Surgery</b> at Sakaria Hospital and Regal
+                        Hospital,
+                        <b>Director</b> at Beyond Smiles Dental Care Clinics, and <b>Director Dental Department and
+                            Consultant Dental Surgeon</b>
+                        at Koshy’s Hospital, Bangalore. He is also an <b>Adjunct Faculty</b> of Sikkim Manipal
+                        University, Gangtok.
+                    </p>
+
+                    <p class="mb-2">
+                        His clinical practice is supported by a team of renowned specialists, with <b>Dental Tourism</b>
+                        being one of their
+                        key specialties, ensuring seamless care aligned with patients’ travel schedules. His
+                        multidisciplinary team includes:
+                    </p>
+
+                    <p class="mb-2">
+                        <b>Cosmetic Dentists</b> (Teeth whitening, smile correction, Hollywood smile etc.),
+                        <b>Orthodontists</b> (Invisalign, Invisible Braces, Ceramic Braces, Metal Braces),
+                        <b>Implantologists</b> (single and multiple tooth replacement),
+                        <b>Prosthodontists</b> (Crowns and Bridges, Veneers, Laminates),
+                        <b>Endodontists</b> (Single sitting root canal treatment),
+                        <b>Maxillofacial Surgeons</b>,
+                        <b>Periodontists</b> (Flap surgery, gum repositioning, gum depigmentation),
+                        <b>Pedodontists</b> (Pediatric dentistry),
+                        <b>Preventive Dentistry</b> and <b>General Dentists</b>.
+
+                    </p>
+                </div>
+
             </div>
         </div>
     </div>
@@ -337,7 +394,7 @@
                 </div>
             </div>
 
-            <!-- Dr. Bobby Cyriac -->
+            <!-- Dr. Bobby Cyriac 
             <div class="col-lg-3 col-md-6">
                 <div class="team-member-item wow fadeInUp mb-4">
                     <div class="team-image">
@@ -363,6 +420,7 @@
                     </div>
                 </div>
             </div>
+            -->
 
             <!-- Dr. Hari Prasad -->
             <div class="col-lg-3 col-md-6">
