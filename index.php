@@ -880,11 +880,9 @@
                             </div>
                             <!-- Testimonial Slide End -->
                         </div>
-                        <div class="swiper-button-prev">
-                            <i class="bi bi-chevron-left fs-2"></i>
-                        </div>
-                        <div class="swiper-button-next">
-                            <i class="bi bi-chevron-right fs-2"></i>
+                        <div class="testimonial-btn">
+                            <div class="testimonial-button-prev"></div>
+                            <div class="testimonial-button-next"></div>
                         </div>
                     </div>
                 </div>

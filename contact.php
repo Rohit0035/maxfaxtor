@@ -29,7 +29,7 @@
 
 
 <!-- Contact Form Start -->
-<div class="contact-us-form pb-5">
+<div class="contact-us-form pb-5" id="contact">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -49,8 +49,7 @@
                         <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Get</span> In Touch With Us</h2>
                     </div>
                     <!-- Section Title End -->
-
-                    <form id="contactForm" action="#" method="POST" data-toggle="validator" class="wow fadeInUp"
+                    <form action="contactsubmit.php" method="POST" class="wow fadeInUp" data-wow-delay="0.25s"
                         data-wow-delay="0.25s">
                         <div class="row">
                             <div class="form-group col-md-6 mb-4">
@@ -82,10 +81,12 @@
                                     required=""></textarea>
                                 <div class="help-block with-errors"></div>
                             </div>
-
                             <div class="col-md-12">
-                                <button type="submit" class="btn-default">send message</button>
-                                <div id="msgSubmit" class="h3 hidden"></div>
+                                <button type="submit" id="submitBtn" class="btn-default">
+                                    <span id="btnText">Send Message</span>
+                                    <span id="btnSpinner" class="spinner-border spinner-border-sm ms-2 d-none"
+                                        role="status" aria-hidden="true"></span>
+                                </button>
                             </div>
                         </div>
                     </form>
@@ -132,7 +133,8 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <div class="contact-info-content">
-                                <p>Koshy's multi-speciality Dental Clinic, Maxfactor's FacioMaxillary/Head & Neck services <br>Raghavendra Nagar, Kalkere, Bengaluru, Karnataka 560016</p>
+                                <p>Koshy's multi-speciality Dental Clinic, Maxfactor's FacioMaxillary/Head & Neck
+                                    services <br>Raghavendra Nagar, Kalkere, Bengaluru, Karnataka 560016</p>
                             </div>
                         </div>
                         <div class="contact-info-list wow fadeInUp mb-3" data-wow-delay="0.2s">
@@ -162,8 +164,10 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <div class="contact-info-content">
-                                <p><bold>R K Multi-Speciality Hospital</bold><br>
-                                    #31, Kammanahalli Main Rd, St Thomas Town, Peace Layout, Kammanahalli, Bengaluru, Karnataka 560084
+                                <p>
+                                    <bold>R K Multi-Speciality Hospital</bold><br>
+                                    #31, Kammanahalli Main Rd, St Thomas Town, Peace Layout, Kammanahalli, Bengaluru,
+                                    Karnataka 560084
                                 </p>
                             </div>
                         </div>
@@ -203,7 +207,7 @@
 
                     <!-- Appointment Button -->
                     <div class="contact-appointment-btn wow fadeInUp" data-wow-delay="1s">
-                        <a href="Contact.php" class="btn-default">make an appointment</a>
+                        <a href="#contact" class="btn-default">make an appointment</a>
                     </div>
                 </div>
                 <!-- Footer Contact Content End -->
@@ -219,3 +223,21 @@
 
 
 <!-- Footer close -->
+
+<script>
+function showLoading(form) {
+  const btn = document.getElementById("submitBtn");
+  const btnText = document.getElementById("btnText");
+  const btnSpinner = document.getElementById("btnSpinner");
+
+  // Disable button to prevent multiple clicks
+  btn.disabled = true;
+  
+  // Change text + show spinner
+  btnText.textContent = "Submitting...";
+  btnSpinner.classList.remove("d-none");
+
+  // Let form submit normally (PHP will handle and then redirect)
+  return true;
+}
+</script>
