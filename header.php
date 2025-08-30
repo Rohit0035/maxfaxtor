@@ -96,6 +96,7 @@
                                         <li class="nav-item"><a class="nav-link" href="ser_malignanttumours.php">Malignant Tumours</a></li>
                                         <li class="nav-item"><a class="nav-link" href="ser_orthognathicsurgery.php">Orthognathic Surgery</a></li>
                                         <li class="nav-item"><a class="nav-link" href="ser-tmjsurgery.php">TMJ Surgery</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="ser-invisalign.php">Invisalign Treatment</a></li>
                                         <!-- New item -->
                                     </ul>
                                 </li>

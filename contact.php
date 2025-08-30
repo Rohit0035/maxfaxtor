@@ -106,8 +106,9 @@
                     <!-- Google Map Iframe Start -->
                     <div class="google-map-iframe">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.065795882187!2d77.606682!3d12.998231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16629c68cf2d%3A0xb8f2d58a2c5e6a9b!2s120%2C%20Mosque%20Rd%20Cross%2C%20Pulikeshi%20Nagar%2C%20Bengaluru%2C%20Karnataka%20560005!5e0!3m2!1sen!2sin!4v1703158537552!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.233950015606!2d77.67344377405144!3d13.02076851380041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae118d442de757%3A0x2054eb4e68c57d67!2sKoshy&#39;s%20Multi-speciality%20Dental%20Clinic%20MaxFaxtor&#39;s%20Faciomaxillary%2F%20Head%20%26%20Neck%20Services!5e0!3m2!1sen!2sin!4v1756552404837!5m2!1sen!2sin"
                             allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            
                     </div>
                     <!-- Google Map Iframe End -->
                 </div>
@@ -133,7 +134,7 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <div class="contact-info-content">
-                                <p>Koshy's multi-speciality Dental Clinic, Maxfactor's FacioMaxillary/Head & Neck
+                                <p>Koshy's multi-speciality Dental Clinic, MaxFaxtor's FacioMaxillary/Head & Neck
                                     services <br>Raghavendra Nagar, Kalkere, Bengaluru, Karnataka 560016</p>
                             </div>
                         </div>

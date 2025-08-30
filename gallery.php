@@ -191,16 +191,27 @@
                 </div>
                 <!-- image gallery end -->
             </div>
-            <div class="col-lg-3 col-md-4 col-6">
+           <div class="col-lg-3 col-md-4 col-6">
                 <!-- video gallery start -->
-                <div class="photo-gallery wow fadeInUp" data-wow-delay="2.2s" data-cursor-text="Play">
-                    <a href="" target="_blank">
-                        <figure>
-                            <video width="100%" autoplay muted loop playsinline>
-                                <source src="images/common/gal-vd.mp4" type="video/mp4">
-                                Your browser does not support the video tag.
-                            </video>
-                        </figure>
+                <div class="photo-gallery wow fadeInUp " data-wow-delay="2.2s" data-cursor-text="Play">
+                    <a href="images/common/text-img.jpg">
+                        <div class="visit-clinic parallaxie py-5 "  styel="border-radius: 10px !important;">
+                            <!-- Visit Clinic Content Start -->
+                            <div class="visit-clinic-content">
+                                <!-- Section Title Start -->
+                                <div class="section-title">
+                                </div>
+                                <!-- Section Title End -->
+
+                                <!-- Visit Clinic Btn Start -->
+                                <div class="visit-clinic-btn wow fadeInUp" data-wow-delay="0.25s"
+                                    data-cursor-text="Play">
+                                    <a href="images/common/gal-vd.mp4" class="popup-video play-btn">play video</a>
+                                </div>
+                                <!-- Visit Clinic Btn End -->
+                            </div>
+                            <!-- Visit Clinic Content End -->
+                        </div>
                     </a>
                 </div>
                 <!-- video gallery end -->

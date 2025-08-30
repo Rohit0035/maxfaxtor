@@ -243,7 +243,7 @@
                             <div id="collapse2" class="accordion-collapse collapse" aria-labelledby="heading2"
                                 data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Dr. Satish Kumaran P., a highly skilled Oral and Maxillofacial Surgeon, is
+                                    <p>Dr. Satish Kumaran Pugazhendi, a highly skilled Oral and Maxillofacial Surgeon, is
                                         renowned nationally as an
                                         expert in performing Orthognathic Surgeries, including jaw corrections and
                                         surgeries to relieve
@@ -624,7 +624,7 @@
                             <img src="images/common/dr_gopika-u.jpg" alt="Dr. Dhannya Devadas">
                         </figure>
                         <div class="team-social-icon bg-light py-3">
-                            <p>BDS (Dental Surgery), FMC (Medical Cosmetology), FPMU (Permanent Makeup)</p>
+                            <p>BDS (Dental Surgeon), FMC (Medical Cosmetology), FPMU (Permanent Makeup)</p>
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
@@ -635,7 +635,7 @@
                     </div>
                     <div class="team-content">
                         <h3>Dr. Gopika Raguraj</h3>
-                        <p>BDS, FMC, FPMU</p>
+                        <p>BDS (Dental Surgeon), FMC, FPMU</p>
                     </div>
                 </div>
             </div>

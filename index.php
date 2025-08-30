@@ -241,7 +241,7 @@
             </div>
         </div>
 
-        <!-- Swiper Slider Start -->
+           <!-- Swiper Slider Start -->
         <div class="row">
             <div class="col-lg-12">
                 <div class="swiper mySwiper">
@@ -931,7 +931,7 @@
                                 <img src="images/icon-location.svg" alt="">
                             </div>
                             <div class="contact-info-content">
-                                <p>Koshy's multi-speciality Dental Clinic, Maxfactor's FacioMaxillary/Head & Neck
+                                <p>Koshy's multi-speciality Dental Clinic, MaxFaxtor's FacioMaxillary/Head & Neck
                                     services <br>Raghavendra Nagar, Kalkere, Bengaluru, Karnataka 560016</p>
                             </div>
                         </div>
@@ -1002,7 +1002,7 @@
 
                     <!-- Appointment Button -->
                     <div class="contact-appointment-btn wow fadeInUp" data-wow-delay="1s">
-                        <a href="Contact.php" class="btn-default">make an appointment</a>
+                        <a href="contact.php" class="btn-default">make an appointment</a>
                     </div>
                 </div>
                 <!-- Footer Contact Content End -->

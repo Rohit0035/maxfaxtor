@@ -63,7 +63,7 @@
                         <li><a href="mailto:arcott21@yahoo.com">arcott21@yahoo.com</a></li>
                         <li><a href="tel:+916360568899">+91 6360568899</a></li>
                       
-                        <li>Koshy's multi-speciality Dental Clinic, Maxfactor's FacioMaxillary/Head & Neck services<br>
+                        <li>Koshy's multi-speciality Dental Clinic, MaxFaxtor's FacioMaxillary/Head & Neck services<br>
                             Raghavendra Nagar, Kalkere, Bengaluru, Karnataka 560016
                         </li>
 
